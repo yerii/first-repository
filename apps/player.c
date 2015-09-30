@@ -1,5 +1,7 @@
 void main(void)
 {
-	foo2();
 	foo1();
+	printf("yeri\n");
+	foo2();
+	printf("Kwon");
 }
