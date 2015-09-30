@@ -5,4 +5,5 @@ void main(void)
 	foo2();
 	printf("Kwon\n");
 	printf("debugging again\n");
+	printf("branch test\n");
 }
